@@ -19,23 +19,12 @@ body{
 #border2{
   background-color: #FFDA59;
   border: 10px solid #FFBE59;
-  margin-top: 40px;
+  margin-top: 30px;
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 20px;
   position: relative;
   height: 560px;
-}
-
-#border3{
-  background-color: #FFDA59;
-  border: 10px solid #FFBE59;
-  margin-top: 40px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
-  position: relative;
-  height: 300px;
 }
 
 .text1{
