@@ -47,11 +47,23 @@ body{
  position: relative;
 }
 
-#image1,.text1,#image2,#expandedImg {border-radius: 8px;}
-
 #image2{
  border: 1px solid black;
 }
+
+#image3{
+ border: 1px solid black;
+}
+
+#image4{
+ border: 1px solid black;
+}
+
+#image5{
+ border: 1px solid black;
+}
+
+#image1,.text1,#image2,#expandedImg,#image3,#image4,#image5 {border-radius: 8px;}
 
 .button1{
   color: white;
