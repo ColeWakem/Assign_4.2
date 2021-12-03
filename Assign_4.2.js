@@ -1,4 +1,4 @@
-function myFunction(imgs) {
+function myFunction(imgs) {  //https://www.w3schools.com/howto/howto_js_tab_img_gallery.asp
   // Get the expanded image
   var expandImg = document.getElementById("expandedImg");
   // Get the image text
