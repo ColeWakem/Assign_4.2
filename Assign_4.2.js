@@ -1,4 +1,4 @@
-function myFunction(imgs) {  //https://www.w3schools.com/howto/howto_js_tab_img_gallery.asp
+function myFunction(imgs) {  //https://www.w3schools.com/howto/howto_js_tab_img_gallery.asp Dec 3 2021
   // Get the expanded image
   var expandImg = document.getElementById("expandedImg");
   // Get the image text
